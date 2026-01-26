@@ -96,6 +96,6 @@ setup(
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
-    py_modules=["qwiic_opt4048"],
+    py_modules=["qwiic_opt4048", "opt4048_registers"],
 
 )
